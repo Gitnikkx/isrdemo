@@ -338,4 +338,10 @@ select:-webkit-autofill:focus {
   }
 }
 
+.form-control{
+  margin-bottom: 20px;
+}
 
+.error{
+  color:red;
+}

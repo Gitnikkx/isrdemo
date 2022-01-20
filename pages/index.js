@@ -1,9 +1,16 @@
 /* eslint-disable prettier/prettier */
 import React from "react";
-import { Homepage } from "templates";
+import { Form } from "templates"; 
 
 export const Home = () => {
-  return <Homepage/>;
+  return (
+    <>
+    <Form/>
+    
+    </>
+  
+  
+);
 };
 
 export default Home;
