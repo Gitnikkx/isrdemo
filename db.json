@@ -2,18 +2,21 @@
   "products": [
     {
       "id": 1,
+      "slug": "abc",
       "title": "Item 1",
       "price": 53,
       "description": "first item"
     },
     {
       "id": 2,
+      "slug": "abc1",
       "title": "Item 2",
       "price": 87436,
       "description": "second item"
     },
     {
       "id": 3,
+      "slug": "abc2",
       "title": "Item 3",
       "price": 38,
       "description": "third item"
